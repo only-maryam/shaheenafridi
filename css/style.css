@@ -1,0 +1,126 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+}
+
+.great {
+    background-color: rgb(36, 10, 41);
+    height: 700px;
+    width: 495px;
+
+}
+
+.container {
+    color: black;
+    background-color: white;
+    padding: 00px;
+    margin: -400px 100px;
+    text-align: right;
+    text-overflow: clip;
+    float: inline-end;
+
+}
+
+#call2 {
+    height: 0%;
+    text-align: justify;
+    max-height: 12px;
+    padding: 10px 0px;
+    text-overflow: clip;
+}
+
+.conform {
+    margin: 10px 100px;
+    padding: 22px 150px;
+    background-color: rgb(43, 7, 85);
+    color: white;
+    text-align: center;
+    border-radius: 12px;
+    border: rgb(17, 12, 13);
+}
+
+.purpleside {
+    background-color: rgb(17, 13, 66);
+    width: 280px;
+    height: 60px;
+    margin: -390px -670px;
+    padding: 90px;
+    border-radius: 12px;
+}
+p {
+    color: white;
+    margin: 23px -6px;
+    font-size: xx-large;
+    padding: -12px;
+    /* letter-spacing: 1px; */
+    /* display: flex; */
+}
+
+p2 {
+    color: white;
+    text-align: left;
+    letter-spacing: 1px;
+    display: flex;
+    /* justify-content: space-evenly; */
+
+    /* padding: 74px; */
+    /* margin: 223px; */
+}
+
+p3 {
+    text-align: right;
+    color: white;
+    padding: 12px 63px;
+    margin: 10px 0px;
+    letter-spacing: 1px;
+    display: flex;
+
+}
+
+/* .anothergrey {
+    background-color: black;
+    width: 10px;
+    height: 60px;
+    margin: 450px -520px;
+    padding: 0px 180px;
+} */
+
+.people {
+    width: 10px;
+    color: white;
+    height: 60px;
+    margin: -470px -220px;
+    padding-bottom: 33px;
+    /* display: flex; */
+}
+
+.circle {
+    background-color: aliceblue;
+    border: 5px solid ghostwhite;
+    font-size: 30px;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: -40px;
+}
+
+/* .silver {
+    height: 723px;
+    width: 34px;
+    color: rgb(255, 72, 6);
+    display: inline-flex;
+    margin: 123px 345px;
+    padding: 223px 345px;
+} */
+.silver{
+    text-align: left;
+    padding: -39px -56px;
+    margin: 879px -579px;
+    padding-right: 34px;
+    display: flex;
+}
